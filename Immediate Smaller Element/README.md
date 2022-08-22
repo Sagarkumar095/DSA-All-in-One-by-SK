@@ -1,5 +1,7 @@
 Immediate Smaller Element
+
 BasicAccuracy: 50.0%Submissions: 20734Points: 1
+
 Given an integer array Arr of size N. For each element in the array, check whether the right adjacent element (on the next immediate position) of the array is smaller. If next element is smaller, update the current index to that element. If not, then  -1.
 
 Example 1:
